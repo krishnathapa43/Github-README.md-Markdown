@@ -36,6 +36,6 @@ Use `python manage.py runserver`
 |----------|-------------|
 | Krishna  | Developer   |
 | Rambadur | Contributor |
-8. Author
+# 8. Author
 >Made with ❤️ by Krishna Bahadur Thapa
 
