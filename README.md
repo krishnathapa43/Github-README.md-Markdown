@@ -37,5 +37,5 @@ Use `python manage.py runserver`
 | Krishna  | Developer   |
 | Rambadur | Contributor |
 8. Author
-Made with ❤️ by Krishna
-Do you want me to **create a ready-made README.md template for your Django learning project** so you can just copy-paste?
+>Made with ❤️ by Krishna Bahadur Thapa
+
